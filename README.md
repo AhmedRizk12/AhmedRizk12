@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture</h1>
-  <p>Embedded Systems Engineer with professional expertise in hardware circuit design and firmware development. Proficient in implementing communication protocols and optimizing software for ARM architectures. Experienced in bridging robust hardware design with efficient firmware, and leveraging AI tools to accelerate system performance and diagnostic workflows since 2021.</p>
+  <p>Embedded Systems Engineer (Class of 2021) | Firmware & Hardware Design Specialist. Bridging hardware constraints with software efficiency on ARM architectures. Passionate about protocol implementation (I2C, SPI, CAN) and leveraging Rust for memory-safe firmware. 🛠️ Tech Stack: C/C++, Rust, ARM Cortex-M, PCB Design, Python, AI & LLM Automation.</p>
 </div>
 
 ---
