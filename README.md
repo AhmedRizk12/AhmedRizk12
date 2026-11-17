@@ -1,6 +1,27 @@
 <div align="center">
   <h1>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture</h1>
-  <p>Embedded Systems Engineer (Class of 2021) | Firmware & Hardware Design Specialist. Bridging hardware constraints with software efficiency on ARM architectures. Passionate about protocol implementation (I2C, SPI, CAN) and leveraging Rust for memory-safe firmware. 🛠️ Tech Stack: C/C++, Rust, ARM Cortex-M, PCB Design, Python, AI & LLM Automation.</p>
+  <p>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture. Bridging hardware design with efficient firmware since 2021.
+### 🛠️ Tech Stack & Weapons of Choice
+
+#### **Hardware & PCB Design**
+*   **Circuit Design:** `Altium Designer`, `KiCad`
+*   **Systems:** `PCB Prototyping`, `Signal Integrity`, `Power Management`
+
+#### **Firmware & Low-Level**
+*   **Languages:** `C`, `C++`, `Rust` (Embedded-HAL)
+*   **Platforms:** `ARM Cortex-M`, `STM32`, `ESP32`
+*   **Protocols:** `I2C`, `SPI`, `UART`, `CAN Bus`, `USB`
+*   **Real-Time:** `FreeRTOS`, `Bare-Metal`
+
+#### **Tooling & Automation**
+*   **Scripting:** `Python` (Automation, Data Analysis, AI integration)
+*   **Version Control:** `Git`
+*   **Development:** `Docker`, `Linux/Shell`, `CI/CD`
+
+#### **AI & Emerging Tech**
+*   **AI Integration:** `LLM-driven firmware optimization`, `Edge AI concepts`
+
+*Always choosing the right tool for the job: prioritizing memory safety with `Rust` where possible, and robust `C` for critical low-level performance.*</p>
 </div>
 
 ---
