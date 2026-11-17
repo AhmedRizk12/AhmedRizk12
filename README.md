@@ -1,14 +1,6 @@
 <div align="center">
-  <h1>Embedded Systems Engineer | Hardware & Software Integration | AI-Powered Automation Architect</h1>
-  <p>Dedicated Embedded Systems Engineer with extensive hands-on experience in bridge-building between hardware and software. Proficient in designing and implementing robust control systems across various architectures.
-
-Technical Expertise:
-- Core Embedded: Deep expertise in firmware development, C/C++, and low-level drivers.
-- Communication Protocols: Advanced mastery of field bus communication including CAN, LIN, SPI, I2C, and UART.
-- System Integration: Proven track record in hardware/software integration and real-time control system optimization.
-
-AI-Driven Innovation:
-Currently leveraging the power of AI and LLMs to architect intelligent automation tools. My goal is to revolutionize the engineering workflow by developing custom scripts and software utilities that streamline complex testing, debugging, and deployment processes.</p>
+  <h1>Embedded Systems Engineer | AI-Powered Automation Enthusiast</h1>
+  <p>Embedded Systems Engineer with extensive hands-on experience in hardware/software integration and control systems. Proficient in CAN, LIN, SPI, I2C, and low-level firmware development. Passionate about leveraging AI and LLMs to build automation tools that optimize engineering workflows and streamline complex development cycles.</p>
 </div>
 
 ---
