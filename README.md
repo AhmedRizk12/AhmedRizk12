@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Ahmed Rizk 👋 | AI Systems & Native Rust Engineer</h1>
-  <p>Passionate software engineer building high-performance native desktop tools, autonomous AI agents, and enterprise tracking systems.</p>
+  <h1>Software Engineer | Rust & Python Developer | AI Enthusiast</h1>
+  <p>Developer specializing in Rust, Python, and AI integration. Passionate about building robust systems and open-source contributions.</p>
 </div>
 
 ---
