@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Software Engineer | Rust & Python Developer | AI Enthusiast</h1>
-  <p>Developer specializing in Rust, Python, and AI integration. Passionate about building robust systems and open-source contributions.</p>
+  <h1>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture</h1>
+  <p>Embedded Systems Engineer with professional expertise in hardware circuit design and firmware development. Proficient in implementing communication protocols and optimizing software for ARM architectures. Experienced in bridging robust hardware design with efficient firmware, and leveraging AI tools to accelerate system performance and diagnostic workflows since 2021.</p>
 </div>
 
 ---
