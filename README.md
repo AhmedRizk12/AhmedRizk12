@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Embedded Systems Engineer | Firmware & Sensor Integration Specialist | AI-Driven IoT Solutions</h1>
-  <p>مهندس أنظمة مدمجة متخصص في تطوير الـ Firmware ودمج الحساسات (Sensors) المعقدة. خبير في تصميم وبناء أنظمة التواصل بين الـ Hardware والـ Software لإنشاء تطبيقات ذكية. أعمل على تطوير حلول أنظمة مدمجة مبتكرة مع دمج تقنيات الـ AI لتعزيز الأداء. تخصصي يشمل: C/C++, STM32, FreeRTOS.</p>
+  <h1>Embedded Systems Engineer | Firmware & Sensor Integration Specialist</h1>
+  <p>Embedded Systems Engineer with a focus on Firmware Development and Sensor Integration. Passionate about building robust, AI-driven IoT solutions and bridging the gap between hardware and software. Experienced in designing efficient systems that leverage real-time processing and intelligent sensor data management.</p>
 </div>
 
 ---
