@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture</h1>
-  <p>Embedded Systems & Hardware Design Engineer since 2021. Specializing in ARM architecture, firmware development, and PCB circuit design. Passionate about bridging hardware constraints with robust, memory-safe software solutions using Rust and Python.
+  <h1>Embedded Systems Engineer | Hardware & Software Integration | AI-Powered Automation Architect</h1>
+  <p>Dedicated Embedded Systems Engineer with extensive hands-on experience in bridge-building between hardware and software. Proficient in designing and implementing robust control systems across various architectures.
 
-### 🛠️ Tech Stack & Weapons of Choice
+Technical Expertise:
+- Core Embedded: Deep expertise in firmware development, C/C++, and low-level drivers.
+- Communication Protocols: Advanced mastery of field bus communication including CAN, LIN, SPI, I2C, and UART.
+- System Integration: Proven track record in hardware/software integration and real-time control system optimization.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Embedded & Hardware** | `ARM Cortex-M`, `PCB Design`, `Circuit Analysis`, `RTOS`, `Bare-Metal` |
-| **Firmware & Protocols** | `C`, `C++`, `Rust` (Safety), `I2C`, `SPI`, `UART`, `CAN Bus` |
-| **Automation & AI** | `Python` (Automation, AI Integration), `Git`, `Docker`, `Linux` |</p>
+AI-Driven Innovation:
+Currently leveraging the power of AI and LLMs to architect intelligent automation tools. My goal is to revolutionize the engineering workflow by developing custom scripts and software utilities that streamline complex testing, debugging, and deployment processes.</p>
 </div>
 
 ---
