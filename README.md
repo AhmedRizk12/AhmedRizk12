@@ -1,29 +1,14 @@
 <div align="center">
   <h1>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture</h1>
-  <p>Embedded Systems Engineer | Hardware Design | Firmware Development | ARM Architecture
-
-Focusing on bridging hardware constraints with software efficiency on ARM-based platforms. Passionate about writing high-performance, memory-safe firmware using Rust, automating workflows with Python, and designing robust circuit systems. Bridging the gap between low-level hardware and high-level AI-driven applications since 2021.
+  <p>Embedded Systems & Hardware Design Engineer since 2021. Specializing in ARM architecture, firmware development, and PCB circuit design. Passionate about bridging hardware constraints with robust, memory-safe software solutions using Rust and Python.
 
 ### 🛠️ Tech Stack & Weapons of Choice
 
-#### **Hardware & PCB Design**
-*   **Circuit Design:** `Altium Designer`, `KiCad`
-*   **Systems:** `PCB Prototyping`, `Signal Integrity`, `Power Management`
-
-#### **Firmware & Low-Level**
-*   **Languages:** `Rust` (Safety-first Firmware), `C`, `C++`
-*   **Platforms:** `ARM Cortex-M`, `STM32`, `ESP32`
-*   **Protocols:** `I2C`, `SPI`, `UART`, `CAN Bus`, `USB`
-*   **Real-Time:** `FreeRTOS`, `Bare-Metal`
-
-#### **Tooling & Automation**
-*   **Scripting:** `Python` (Automation, AI integration, Data Analysis)
-*   **Version Control:** `Git`
-*   **Development:** `Docker`, `Linux/Shell`, `CI/CD`
-
-#### **AI & Emerging Tech**
-*   **AI Integration:** `LLM-driven firmware optimization`, `Edge AI concepts`
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Embedded & Hardware** | `ARM Cortex-M`, `PCB Design`, `Circuit Analysis`, `RTOS`, `Bare-Metal` |
+| **Firmware & Protocols** | `C`, `C++`, `Rust` (Safety), `I2C`, `SPI`, `UART`, `CAN Bus` |
+| **Automation & AI** | `Python` (Automation, AI Integration), `Git`, `Docker`, `Linux` |</p>
 </div>
 
 ---
