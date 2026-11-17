@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture</h1>
-  <p>Embedded Systems & Hardware Design Engineer | Firmware, Protocols, and ARM Architecture. Bridging hardware design with efficient firmware since 2021.
+  <p>Embedded Systems Engineer | Hardware Design | Firmware Development | ARM Architecture
+
+Focusing on bridging hardware constraints with software efficiency on ARM-based platforms. Passionate about writing high-performance, memory-safe firmware using Rust, automating workflows with Python, and designing robust circuit systems. Bridging the gap between low-level hardware and high-level AI-driven applications since 2021.
+
 ### 🛠️ Tech Stack & Weapons of Choice
 
 #### **Hardware & PCB Design**
@@ -8,20 +11,19 @@
 *   **Systems:** `PCB Prototyping`, `Signal Integrity`, `Power Management`
 
 #### **Firmware & Low-Level**
-*   **Languages:** `C`, `C++`, `Rust` (Embedded-HAL)
+*   **Languages:** `Rust` (Safety-first Firmware), `C`, `C++`
 *   **Platforms:** `ARM Cortex-M`, `STM32`, `ESP32`
 *   **Protocols:** `I2C`, `SPI`, `UART`, `CAN Bus`, `USB`
 *   **Real-Time:** `FreeRTOS`, `Bare-Metal`
 
 #### **Tooling & Automation**
-*   **Scripting:** `Python` (Automation, Data Analysis, AI integration)
+*   **Scripting:** `Python` (Automation, AI integration, Data Analysis)
 *   **Version Control:** `Git`
 *   **Development:** `Docker`, `Linux/Shell`, `CI/CD`
 
 #### **AI & Emerging Tech**
 *   **AI Integration:** `LLM-driven firmware optimization`, `Edge AI concepts`
-
-*Always choosing the right tool for the job: prioritizing memory safety with `Rust` where possible, and robust `C` for critical low-level performance.*</p>
+</p>
 </div>
 
 ---
