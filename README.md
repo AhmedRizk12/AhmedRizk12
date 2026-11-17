@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Full Stack Developer | Rust & Python Enthusiast | AI Explorer</h1>
-  <p>Software Engineer passionate about Rust, Python, and AI Development. Building the future with code.</p>
+  <h1>Embedded Systems Engineer | Firmware & Sensor Integration Specialist | AI-Driven IoT Solutions</h1>
+  <p>مهندس أنظمة مدمجة متخصص في تطوير الـ Firmware ودمج الحساسات (Sensors) المعقدة. خبير في تصميم وبناء أنظمة التواصل بين الـ Hardware والـ Software لإنشاء تطبيقات ذكية. أعمل على تطوير حلول أنظمة مدمجة مبتكرة مع دمج تقنيات الـ AI لتعزيز الأداء. تخصصي يشمل: C/C++, STM32, FreeRTOS.</p>
 </div>
 
 ---
