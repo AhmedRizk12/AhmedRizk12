@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hardware & Embedded Systems Engineer | Smart Lighting, Rust & Applied AI ⚡</h1>
-  <p>Electronics & Embedded Systems Engineer specializing in Smart Lighting Architecture, Hardware/PCB Design, and Firmware Development. Passionate about building zero-bloat native software with Rust and developing autonomous Applied AI agents to bridge physical hardware with modern digital command centers.</p>
+  <p>مهندس أنظمة مدمجة وإلكترونيات متخصص في الـ Smart Lighting والـ Applied AI مع خبرة في بناء الأنظمة الذكية.</p>
 </div>
 
 ---
@@ -9,14 +9,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-181824?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-181824?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-181824?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-181824?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCB%20Design-181824?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-181824?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri%20v2-181824?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-181824?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Applied%20AI-181824?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-181824?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-181824?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart%20Lighting-181824?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20&%20LLMs-181824?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181824?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
 
